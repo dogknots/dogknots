@@ -3,8 +3,6 @@
 #  Fix everything wrong with Windows 10.
 #  Warning, this will break ALOT of things in Windows (like Edge), so be warned.
 #
-# Copyright (C) 2020 - 2022 iDigitalFlame
-#
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
